@@ -1,20 +1,20 @@
-import "./intro.css";
-import Me from "../../img/me.png";
+import "./home.css";
+import Me from "../../img/me.jpeg";
 
-const Intro = () => {
+const Home = () => {
   return (
     <div className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
           <h2 className="i-intro">Hello, My name is</h2>
-          <h1 className="i-name">Nidhomul Muna Lana</h1>
+          <h1 className="i-name">Nidhomul muna lana</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
               <div className="i-title-item">UI/UX Designer</div>
-              <div className="i-title-item">Playing Football</div>
+              <div className="i-title-item">Playing football</div>
               <div className="i-title-item">Gamers</div>
-              <div className="i-title-item">Content Creator</div>
+              <div className="i-title-item">Hiking Mountain</div>
             </div>
           </div>
           <p className="i-desc">
@@ -88,4 +88,4 @@ const Intro = () => {
   );
 };
 
-export default Intro;
+export default Home;
