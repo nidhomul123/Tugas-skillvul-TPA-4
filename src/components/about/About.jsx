@@ -22,8 +22,11 @@ const About = () => {
         Bootcamp Development
         </p>
         <p className="a-desc">
-        Hi, saya adalah web developer yang berdomisisli di Pekalongan.
-                Saat ini sedang belajar HTML di skillvul.
+                            Saya Adalah Seorang Mahasiswa Semester 5 di Kampus STMIK Widya Pratama Pekalongan
+                            Saya berumur 20 tahun.Bulan april tanggal 30.Saya disamping kuliah saya mondok di pesantren terpadu alfusha kedungwuni, pekalongan
+                            saya mengikuti program MSIB di kampus merdeka bersama Mitra PT IMPACTBYTE TEKNOLOGI EDUKASI, Atau yang dikenal Skillvul.
+                            keinginan saya belajar di skillvul mencari ilmu dan memperdalam keahlian saya di bidang IT dalam coding tentunnya, agar besok kelak bisa menjadi 
+                            mahasiswa lulus 3,5 tahun saja
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
